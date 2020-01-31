@@ -3,7 +3,7 @@
 DisplayStrings = (
 "\012ALBANY vs PORTLAND\012NWYRK vs MAINE\012ITHAACAVVATAT",
 "AMAZINGLY FEW DISCOTHEQUES\012PROVIDE JUKEBOXES\012\012amazingly few discotheques \012povide jukeboxes\0120123456789",
-"PKRIVX\012ft",
+"PKRIVX\012ftCe9",
 "An exquisite pink and white butterfly just lovingly landed on my coat zipper\012\012AN EXQUISITE PINK AND WHITE"
 );
 copyright = "Copyright 2020 The Tourney Project Authors (https://github.com/Etcetera-Type-Co/Tourney)";
@@ -7444,7 +7444,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2019-06-21 12:53:27 +0000";
+lastChange = "2020-01-31 02:52:10 +0000";
 layers = (
 {
 anchors = (

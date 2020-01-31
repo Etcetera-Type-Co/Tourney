@@ -81,7 +81,7 @@ cd sources
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
-fontmake -g Tourney.glyphs -o variable --output-path ../fonts/variable/TourneyVariable.ttf
+fontmake --keep-overlaps -g Tourney.glyphs -o variable --output-path ../fonts/variable/TourneyVariable.ttf
 
 rm -rf master_ufo/ instance_ufo/
 
