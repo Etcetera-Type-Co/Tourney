@@ -1,9 +1,5 @@
 {
-.appVersion = "3066";
-DisplayStrings = (
-"\012ALBANY/space vs/space PORTLAND\012NEW/space YORK/space vs/space MAINE\012\012UNDEFEATED\012",
-"AMAZINGLY/space FEW/space DISCOTHEQUES\012PROVIDE/space JUKEBOXES\012\012amazingly/space few/space discotheques/space \012provide/space jukeboxes\012\012"
-);
+.appVersion = "3077";
 classes = (
 {
 automatic = 1;
@@ -37,11 +33,11 @@ value = 1;
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
