@@ -82,10 +82,6 @@ Tag = wght;
 {
 Name = Width;
 Tag = wdth;
-},
-{
-Name = Italic;
-Tag = ital;
 }
 );
 }

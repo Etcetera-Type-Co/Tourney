@@ -82,10 +82,6 @@ Tag = wght;
 {
 Name = Width;
 Tag = wdth;
-},
-{
-Name = Italic;
-Tag = ital;
 }
 );
 }
@@ -374,7 +370,6 @@ alignmentZones = (
 ascender = 1500;
 capHeight = 1400;
 custom = "Thin Italic";
-customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -437,7 +432,6 @@ alignmentZones = (
 ascender = 1500;
 capHeight = 1400;
 custom = Italic;
-customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -510,7 +504,6 @@ alignmentZones = (
 ascender = 1500;
 capHeight = 1400;
 custom = "Black Italic";
-customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -581,7 +574,6 @@ alignmentZones = (
 ascender = 1500;
 capHeight = 1400;
 custom = "Expanded Thin Italic";
-customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -644,7 +636,6 @@ alignmentZones = (
 ascender = 1500;
 capHeight = 1400;
 custom = "Expanded Italic";
-customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -717,7 +708,6 @@ alignmentZones = (
 ascender = 1500;
 capHeight = 1400;
 custom = "Expanded Black Italic";
-customValue = 1;
 customParameters = (
 {
 name = typoAscender;
@@ -131104,7 +131094,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWidth = 75;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 1;
@@ -131121,7 +131110,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 200;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131140,7 +131128,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 300;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131159,7 +131146,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 400;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131176,7 +131162,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 500;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131195,7 +131180,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 600;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131214,7 +131198,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 700;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131232,7 +131215,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 800;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131251,7 +131233,6 @@ name = familyName;
 value = "Tourney Condensed";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 900;
 interpolationWidth = 75;
 instanceInterpolations = {
@@ -131269,7 +131250,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWidth = 125;
 instanceInterpolations = {
 "C350CEFC-842E-49B2-BD8E-B76FC625146E" = 1;
@@ -131286,7 +131266,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 200;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131305,7 +131284,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 300;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131324,7 +131302,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 400;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131341,7 +131318,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 500;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131360,7 +131336,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 600;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131379,7 +131354,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 700;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131397,7 +131371,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 800;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131416,7 +131389,6 @@ name = familyName;
 value = "Tourney Expanded";
 }
 );
-interpolationCustom = 1;
 interpolationWeight = 900;
 interpolationWidth = 125;
 instanceInterpolations = {
@@ -131428,7 +131400,6 @@ name = "Black Italic";
 weightClass = Black;
 },
 {
-interpolationCustom = 1;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 0.5;
 "C350CEFC-842E-49B2-BD8E-B76FC625146E" = 0.5;
@@ -131439,7 +131410,6 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 200;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 0.41667;
@@ -131453,7 +131423,6 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 300;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 0.33333;
@@ -131467,7 +131436,6 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 400;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 0.25;
@@ -131479,7 +131447,6 @@ isItalic = 1;
 name = Italic;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 500;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 0.16667;
@@ -131493,7 +131460,6 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 600;
 instanceInterpolations = {
 "688D45B5-F54A-49EF-A5DE-FF449873800E" = 0.08333;
@@ -131507,7 +131473,6 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 700;
 instanceInterpolations = {
 "890EBC54-9394-463B-B2A5-6ADD509C07AA" = 0.5;
@@ -131519,7 +131484,6 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 800;
 instanceInterpolations = {
 "52369092-E1A4-4352-8107-384305BB14D9" = 0.25;
@@ -131533,7 +131497,6 @@ name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
 {
-interpolationCustom = 1;
 interpolationWeight = 900;
 instanceInterpolations = {
 "52369092-E1A4-4352-8107-384305BB14D9" = 0.5;
