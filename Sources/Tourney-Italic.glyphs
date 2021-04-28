@@ -373,15 +373,15 @@ custom = "Thin Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2160;
 },
 {
 name = hheaDescender;
@@ -389,7 +389,7 @@ value = -400;
 },
 {
 name = typoLineGap;
-value = 480;
+value = 0;
 },
 {
 name = typoDescender;
@@ -401,7 +401,7 @@ value = 540;
 },
 {
 name = hheaLineGap;
-value = 480;
+value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -435,15 +435,15 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2160;
 },
 {
 name = hheaDescender;
@@ -451,7 +451,7 @@ value = -400;
 },
 {
 name = typoLineGap;
-value = 480;
+value = 0;
 },
 {
 name = typoDescender;
@@ -463,7 +463,7 @@ value = 540;
 },
 {
 name = hheaLineGap;
-value = 480;
+value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -507,15 +507,15 @@ custom = "Black Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2160;
 },
 {
 name = hheaDescender;
@@ -523,7 +523,7 @@ value = -400;
 },
 {
 name = typoLineGap;
-value = 480;
+value = 0;
 },
 {
 name = typoDescender;
@@ -535,7 +535,7 @@ value = 540;
 },
 {
 name = hheaLineGap;
-value = 480;
+value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -577,15 +577,15 @@ custom = "Expanded Thin Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2160;
 },
 {
 name = hheaDescender;
@@ -593,7 +593,7 @@ value = -400;
 },
 {
 name = typoLineGap;
-value = 480;
+value = 0;
 },
 {
 name = typoDescender;
@@ -605,7 +605,7 @@ value = 540;
 },
 {
 name = hheaLineGap;
-value = 480;
+value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -639,15 +639,15 @@ custom = "Expanded Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2160;
 },
 {
 name = hheaDescender;
@@ -655,7 +655,7 @@ value = -400;
 },
 {
 name = typoLineGap;
-value = 480;
+value = 0;
 },
 {
 name = typoDescender;
@@ -667,7 +667,7 @@ value = 540;
 },
 {
 name = hheaLineGap;
-value = 480;
+value = 0;
 },
 {
 name = "Master Icon Glyph Name";
@@ -711,15 +711,15 @@ custom = "Expanded Black Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1800;
 },
 {
 name = winAscent;
-value = 2150;
+value = 2160;
 },
 {
 name = hheaDescender;
@@ -727,7 +727,7 @@ value = -400;
 },
 {
 name = typoLineGap;
-value = 480;
+value = 0;
 },
 {
 name = typoDescender;
@@ -739,7 +739,7 @@ value = 540;
 },
 {
 name = hheaLineGap;
-value = 480;
+value = 0;
 },
 {
 name = "Master Icon Glyph Name";
