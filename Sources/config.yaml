@@ -1,0 +1,8 @@
+    sources:
+      - Tourney.glyphs
+      - Tourney-Italic.glyphs
+    axisOrder:
+      - wdth
+      - wght
+      - ital
+    familyName: Tourney
